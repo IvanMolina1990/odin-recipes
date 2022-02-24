@@ -1,0 +1,14 @@
+* {
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+    color: orangered;    
+}
+
+a:hover {
+    color: crimson;
+    font-size: 18px;
+}
